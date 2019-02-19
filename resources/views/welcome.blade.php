@@ -36,7 +36,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hello Laravel! - by ShiHun</div>
+                <div class="title">Hello Laravel! - by ShiHunaaa</div>
             </div>
         </div>
     </body>
